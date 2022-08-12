@@ -1,0 +1,15 @@
+from math import *
+print(2)
+print("2")
+print(2.00231431)
+print(2 + 3)
+print(10 % 3)
+print(10 / 3)
+# print(10 \ 3)
+num = 5
+print(str(num) + "666")
+print(pow(2, 3))
+print(max(2, 3))
+print(2**3)
+print(round(3.49999999))
+print(sqrt(36))
